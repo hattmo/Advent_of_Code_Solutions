@@ -6,6 +6,8 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+autopep8 = "^1.6.0"
+blessed = "^1.19.0"
 
 [tool.poetry.dev-dependencies]
 
